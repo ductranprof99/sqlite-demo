@@ -1,0 +1,6 @@
+framework module Pods_DemoSQL {
+  umbrella header "Pods-DemoSQL-umbrella.h"
+
+  export *
+  module * { export * }
+}
