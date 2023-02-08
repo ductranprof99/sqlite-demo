@@ -1,3 +1,8 @@
+# Very big note here:
+This is my first time working with sqlite in ios (for real, the last time i use sql when i need to do some the assignment in university)
+So i accept any jugdement, and also any helpful comment cus i'm stuck to understand how `Expression` in SQLite library work (not like wrapper, and also cannot convert back to string)
+Thank you for create an opportunity for me to learning this, but still i'm prefer something not SQL like 
+
 ## I. Trường hợp 1: Từ version 1 sang version 2
 Note: Trong mọi trường hợp migrate, nên tạo một backup cho database.
 Duplicate database script: sqlite3 old.db ".dump mytable" | sqlite3 new.db
